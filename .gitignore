@@ -44,11 +44,3 @@ build/
 settings.gradle
 
 
-# Ignore Gradle build output directory project 
-
-Booking/.idea/
-Booking/target/
-Booking/.gradle/
-Booking/history/
-Booking/build/
-
